@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 🔭 I’m currently working on HTML, CSS, SCSS, Javascript, Typescript and Angular projects.<br>🌱 I’m currently learning ReactJs .<br>👯 I’m looking to collaborate on Angular related projects.<br>🤔 I’m looking for help with Angular.<br>💬 Ask me about Angular.<br>📫 Reach me https://akp27874.github.io/portfolio.github.io/<br>😄 Pronouns: akp27874<br>⚡ Life is a learning experience, only if you learn.
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=akp27874&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yJfmQ7rTss) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/4407516/ashish-kumar) 

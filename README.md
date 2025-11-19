@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on HTML, CSS, SCSS, Javascript, Typescript and Angular projects.<br>🌱 I’m currently learning ReactJs .<br>👯 I’m looking to collaborate on Angular related projects.<br>🤔 I’m looking for help with Angular.<br>💬 Ask me about Angular.<br>📫 Reach me https://akp27874.github.io/portfolio.github.io/<br>😄 Pronouns: akp27874<br>⚡ Life is a learning experience, only if you learn.
+🔭 I’m currently working on HTML, CSS, SCSS, Javascript, Typescript and Angular projects.<br>🌱 I’m currently learning NgRx .<br>👯 I’m looking to collaborate on Angular related projects.<br>🤔 I’m looking for help with Angular.<br>💬 Ask me about Angular.<br>📫 Reach me https://akp27874.github.io/portfolio.github.io/<br>😄 Pronouns: akp27874<br>⚡ Life is a learning experience, only if you learn.
 <br><br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=akp27874&label=Profile%20Views&color=1&icon=0&pretty=true" />
